@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Soumen Rakshit </span>
             from <span className="purple"> Bankura, India.</span>
-            <br />I am a Softwere Developer .
+            <br />I am a Softwere Developer at teminos technology  pvt limited.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
