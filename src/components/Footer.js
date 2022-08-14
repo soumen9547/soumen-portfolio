@@ -17,7 +17,7 @@ function Footer() {
           <h3>Designed and Developed by Soumen Rakshit</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SR</h3>
+          <h3>Copyright © {year} Soumen Rakshit</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
