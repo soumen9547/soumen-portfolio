@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://soumen-portfolio.vercel.app/static/media/Soumen__resume.700342e5fce37ed76dcc.pdf";
+  "https://soumen-portfolio.vercel.app/static/media/Soumen__resume.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
